@@ -12,7 +12,9 @@
 - **Frameworks & Libraries**:    
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%230A0F25.svg?style=flat&logo=tailwind-css&logoColor=white)
+
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+
   ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
 
 - **Tools**:  
