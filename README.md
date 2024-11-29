@@ -16,10 +16,33 @@
  ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
 
 
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+## 🛠️ Tools & Technologies
+
+- **Version Control**:  
+  - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) – Git is used for version control, enabling collaborative work and tracking changes in your codebase.
+
+- **Code Hosting**:  
+  - ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) – GitHub is used for hosting repositories and collaborating with developers across the world.
+
+- **Code Editor**:  
+  - ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) – Visual Studio Code is my preferred code editor, known for its flexibility, extensions, and strong support for JavaScript and React.
+
+- **IDE**:  
+  - ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white) – Eclipse is used primarily for Java-based projects and backend development.
+
+- **JAR Files**:  
+  - ![JAR file](https://img.shields.io/badge/JAR-%23FF5722.svg?style=flat&logo=java&logoColor=white) – JAR files are used to package Java programs and libraries, allowing for easy execution and integration.
+
+- **API Documentation**:  
+  - ![Swagger](https://img.shields.io/badge/Swagger-%23000000.svg?style=flat&logo=swagger&logoColor=white) – Swagger is used to design, document, and visualize RESTful APIs, making API development easier.
+
+- **API Testing & Correction**:  
+  - ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) – Postman is a powerful API testing tool that helps in testing, validating, and correcting API requests and responses.
+
+---
+
+These are the tools I use to ensure smooth development, collaboration, and API management during projects.
+
 
 ---
 
