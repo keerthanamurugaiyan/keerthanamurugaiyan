@@ -60,4 +60,5 @@ I take pride in writing clean, efficient, and maintainable code, and I enjoy opt
 ---
 
 ## 🌟 **Fun Fact:**  
-I thrive on coding during the late hours when the world is quiet, but I'm also an early riser! I guess you could say I’m both a **Night Owl 🦉** and an **Early Bird 🐦**—the best of both worlds!
+🎨 "Design is thinking made visual, and I take pride in bringing ideas to life through elegant user interfaces
+✨ "Building intuitive dashboards is where creativity meets functionality—my ultimate happy place!"
