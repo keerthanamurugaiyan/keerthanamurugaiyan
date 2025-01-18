@@ -61,4 +61,4 @@ I take pride in writing clean, efficient, and maintainable code, and I enjoy opt
 
 ## 🌟 **Fun Fact:**  
 🎨 "Design is thinking made visual, and I take pride in bringing ideas to life through elegant user interfaces
-✨ "Building intuitive dashboards is where creativity meets functionality—my ultimate happy place!"
+✨ "Building intuitive dashboards is where creativity meets functionality—my ultimate happy place!" 
