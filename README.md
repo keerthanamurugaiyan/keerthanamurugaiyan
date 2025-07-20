@@ -1,64 +1,74 @@
-# 👩‍💻 **Keerthana Murugaiyan**  
-### *Front-End Developer | Passionate about Building Seamless User Interfaces*
+# 👩‍💻 Keerthana Murugaiyan
+
+### *Front-End Developer | Crafting Seamless & Interactive User Interfaces*
+
+Welcome to my GitHub! I'm Keerthana — a passionate Front-End Developer focused on building user-centric web applications that are responsive, efficient, and visually engaging.
 
 ---
 
-## 🚀 **Expertise:**
-- **Languages & Markup:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+## 🚀 Skills & Technologies
 
-- **Frameworks & Libraries:**  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%230A0F25.svg?style=flat&logo=tailwind-css&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
-  ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
+### 🧩 **Languages & Markup**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
----
-
-## 🛠️ **Tools & Technologies**
-
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) – Git is used for version control, enabling collaborative work and tracking changes in the codebase.
-
-- **Code Hosting:**  
-  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) – GitHub is used for hosting repositories and collaborating with developers worldwide.
-
-- **Code Editor:**  
-  ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) – Visual Studio Code is my preferred code editor, known for flexibility, extensions, and strong JavaScript and React support.
-
-- **IDE:**  
-  ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white) – Eclipse is used for Java-based projects and backend development.
-
-- **JAR Files:**  
-  ![JAR file](https://img.shields.io/badge/JAR-%23FF5722.svg?style=flat&logo=java&logoColor=white) – JAR files are used to package Java programs and libraries for easy execution and integration.
-
-- **API Documentation:**  
-  ![Swagger](https://img.shields.io/badge/Swagger-%23000000.svg?style=flat&logo=swagger&logoColor=white) – Swagger is used to design, document, and visualize RESTful APIs, making API development simpler.
-
-- **API Testing & Correction:**  
-  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) – Postman is a powerful API testing tool that helps in testing, validating, and correcting API requests and responses.
+### ⚙️ **Frameworks & Libraries**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%230A0F25.svg?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
 
 ---
 
-These are the tools I use to ensure smooth development, collaboration, and API management during projects.
+## 🛠 Tools & Platforms
+
+| Category             | Tools                                                                                      |
+|----------------------|---------------------------------------------------------------------------------------------|
+| **Version Control**  | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) |
+| **Code Hosting**     | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) |
+| **Editor**           | ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) |
+| **IDE (Java)**       | ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white) |
+| **Packaging**        | ![JAR](https://img.shields.io/badge/JAR-%23FF5722.svg?style=flat&logo=java&logoColor=white) |
+| **API Docs**         | ![Swagger](https://img.shields.io/badge/Swagger-%23000000.svg?style=flat&logo=swagger&logoColor=white) |
+| **API Testing**      | ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) |
 
 ---
 
-## 🌱 **About Me:**  
-I am a passionate **Front-End Developer** with expertise in creating user-friendly, responsive, and visually appealing websites. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React.js to bring engaging and interactive user interfaces to life.
+## 🌐 Portfolio
 
-I take pride in writing clean, efficient, and maintainable code, and I enjoy optimizing the user experience across various devices and screen sizes.
+Check out my latest work and interactive UI experiments:
 
----
+🔗 **[Visit My Portfolio](https://keerthana-portfolio.netlify.app/)**
 
-## 📫 **Let's Connect:**
-- 📧 [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/keerthana-murugaiyan-947597303/)  
+> Featuring real projects, animations, responsive designs, and custom UI components built with React, Tailwind, and Framer Motion.
 
 ---
 
-## 🌟 **Fun Fact:**  
-🎨 **"Design is thinking made visual, and I take pride in bringing ideas to life through elegant user interfaces."**   
-✨ **"Building intuitive dashboards is where creativity meets functionality—my ultimate happy place!"**
+## 🙋‍♀️ About Me
+
+I love solving frontend challenges, creating delightful experiences, and translating product ideas into intuitive digital interfaces.
+
+- 💻 Front-End Enthusiast | Pixel-perfectionist | Accessibility Advocate
+- 🎯 Focused on building scalable UIs using modern web technologies
+- 🔄 Always learning – currently diving deeper into **Framer Motion** & **design systems**
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)  
+- 💼 LinkedIn: [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan-947597303/)
+
+---
+
+## ✨ Fun Fact
+
+> **"Design is thinking made visual."**  
+> I love bringing complex user flows to life through clean layouts, interactive components, and a smooth user experience.
+
+🎨 Whether it's building dashboards, modals, or responsive layouts – **UI is my happy place**!
+
+---
+
+🛠 *Built with ❤️ using HTML, CSS, React, and Tailwind — powered by passion for UI excellence!*
