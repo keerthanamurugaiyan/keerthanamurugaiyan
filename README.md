@@ -1,74 +1,82 @@
 # 👩‍💻 Keerthana Murugaiyan
 
-### *Front-End Developer | Crafting Seamless & Interactive User Interfaces*
+### *Frontend Developer | Passionate about Crafting Engaging User Interfaces*
 
-Welcome to my GitHub! I'm Keerthana — a passionate Front-End Developer focused on building user-centric web applications that are responsive, efficient, and visually engaging.
+🔗 **Portfolio:** [keerthana-portfolio.netlify.app](https://keerthana-portfolio.netlify.app)
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 About Me
 
-### 🧩 **Languages & Markup**
+Hello! I'm Keerthana — a creative and detail-oriented Front-End Developer who loves transforming ideas into beautiful, functional digital experiences. I specialize in building responsive web apps using **React.js**, **Tailwind CSS**, and **modern JavaScript libraries** to create intuitive, performant UIs.
+
+- 🎯 Focused on pixel-perfect, responsive, and accessible design
+- 🌱 Currently exploring **Framer Motion** and **Advanced React Patterns**
+- 💼 Currently working on complex dashboard and logistics UI systems
+- 🤝 Open to collaborations on interactive UI components, dashboards, and SPA designs
+- 💬 Ask me about React, Redux, UI design systems, and frontend best practices
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
-### ⚙️ **Frameworks & Libraries**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%230A0F25.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%230A0F25.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23000000.svg?style=flat&logo=swagger&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white)
 
 ---
 
-## 🛠 Tools & Platforms
+## 🌟 Featured Projects
 
-| Category             | Tools                                                                                      |
-|----------------------|---------------------------------------------------------------------------------------------|
-| **Version Control**  | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) |
-| **Code Hosting**     | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) |
-| **Editor**           | ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) |
-| **IDE (Java)**       | ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white) |
-| **Packaging**        | ![JAR](https://img.shields.io/badge/JAR-%23FF5722.svg?style=flat&logo=java&logoColor=white) |
-| **API Docs**         | ![Swagger](https://img.shields.io/badge/Swagger-%23000000.svg?style=flat&logo=swagger&logoColor=white) |
-| **API Testing**      | ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) |
+### 🧾 **Lendwise Website**
+A professional finance web app with role-based dashboards, form validation, and PDF modals.
 
----
+- Built dynamic forms with nested state validation using Redux + Yup
+- Integrated API layers, dropdowns, and editable modals
+- Created reusable party modals and invoice components
 
-## 🌐 Portfolio
+### 🖥️ **Allwin Digital Website**
+A responsive static website built for a digital branding agency.
 
-Check out my latest work and interactive UI experiments:
+- Built with React JS, Tailwind, and React Icons
+- Focused on clean, accessible UI with smooth animations
+- Integrated contact links, custom layouts, and responsive media queries
 
-🔗 **[Visit My Portfolio](https://keerthana-portfolio.netlify.app/)**
+### 📊 **Food Application Dashboard**
+An interactive food delivery admin panel.
 
-> Featuring real projects, animations, responsive designs, and custom UI components built with React, Tailwind, and Framer Motion.
-
----
-
-## 🙋‍♀️ About Me
-
-I love solving frontend challenges, creating delightful experiences, and translating product ideas into intuitive digital interfaces.
-
-- 💻 Front-End Enthusiast | Pixel-perfectionist | Accessibility Advocate
-- 🎯 Focused on building scalable UIs using modern web technologies
-- 🔄 Always learning – currently diving deeper into **Framer Motion** & **design systems**
+- Used Bootstrap + Redux for seamless state handling
+- Implemented CRUD dashboards and data tables
+- Enabled real-time form validations and API integration
 
 ---
 
-## 📬 Let’s Connect
+## 📫 Let's Connect
 
-- 📧 Email: [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)  
-- 💼 LinkedIn: [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan-947597303/)
-
----
-
-## ✨ Fun Fact
-
-> **"Design is thinking made visual."**  
-> I love bringing complex user flows to life through clean layouts, interactive components, and a smooth user experience.
-
-🎨 Whether it's building dashboards, modals, or responsive layouts – **UI is my happy place**!
+- 📧 **Email**: [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)
+- 💼 **LinkedIn**: [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan-947597303/)
 
 ---
 
-🛠 *Built with ❤️ using HTML, CSS, React, and Tailwind — powered by passion for UI excellence!*
+## ✨ Fun Facts
+
+- 🎨 *“Design is thinking made visual” — and I bring that to life through clean UI and intuitive user flows.*
+- 📊 Building dashboards is my happy place — I love blending data and design.
+- 💡 I enjoy solving tricky UI state problems and simplifying user journeys.
+
+---
+
+🛠 *This README was built with clean code, sharp UI, and a lot of ❤️. Want to collaborate? Let’s build something amazing together!*
