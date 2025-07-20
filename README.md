@@ -1,14 +1,16 @@
-# 👩‍💻 Keerthana Murugaiyan
+# 👩‍💻 Keerthana Murugaiyan here — front-end developer passionate about clean design and seamless user experiences
 
-### *Frontend Developer | Passionate about Crafting Engaging User Interfaces*
+### *💻 Front-End Developer  |  🎨 Passionate about Crafting Engaging User Interfaces*
 
-🔗 **Portfolio:** [keerthana-portfolio.netlify.app](https://keerthana-portfolio.netlify.app)
+🔗 **Check out my portfolio:** [keerthana-portfolio.netlify.app](https://keerthanamurugaiyan-44785.web.app/)
+
+"Creating intuitive user experiences through clean, efficient code and thoughtful design.
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm Keerthana — a creative and detail-oriented Front-End Developer who loves transforming ideas into beautiful, functional digital experiences. I specialize in building responsive web apps using **React.js**, **Tailwind CSS**, and **modern JavaScript libraries** to create intuitive, performant UIs.
+I enjoy building clean, user-focused web interfaces that turn ideas into smooth, functional digital experiences. With a strong eye for design and detail, I aim to create interfaces that feel intuitive, responsive, and thoughtfully crafted.
 
 - 🎯 Focused on pixel-perfect, responsive, and accessible design  
 - 🌱 Currently exploring **Framer Motion** and **Advanced React Patterns**  
@@ -66,7 +68,7 @@ A full-featured admin panel for food delivery services.
 
 ### 🖥️ **Allwin Digital Website**
 
-🔗 [Live Website](https://allwindigital-vadapalani.web.app)
+🔗 [Live Website](https://allwindigital-vadapalani.web.app/)
 
 A clean, static website built for a Chennai-based branding agency.
 
