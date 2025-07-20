@@ -10,11 +10,11 @@
 
 Hello! I'm Keerthana — a creative and detail-oriented Front-End Developer who loves transforming ideas into beautiful, functional digital experiences. I specialize in building responsive web apps using **React.js**, **Tailwind CSS**, and **modern JavaScript libraries** to create intuitive, performant UIs.
 
-- 🎯 Focused on pixel-perfect, responsive, and accessible design
-- 🌱 Currently exploring **Framer Motion** and **Advanced React Patterns**
-- 💼 Currently working on complex dashboard and logistics UI systems
-- 🤝 Open to collaborations on interactive UI components, dashboards, and SPA designs
-- 💬 Ask me about React, Redux, UI design systems, and frontend best practices
+- 🎯 Focused on pixel-perfect, responsive, and accessible design  
+- 🌱 Currently exploring **Framer Motion** and **Advanced React Patterns**  
+- 💼 Currently working on complex dashboard and logistics UI systems  
+- 🤝 Open to collaborations on interactive UI components, dashboards, and SPA designs  
+- 💬 Ask me about React, Redux, UI design systems, and frontend best practices  
 
 ---
 
@@ -34,45 +34,43 @@ Hello! I'm Keerthana — a creative and detail-oriented Front-End Developer who 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+
 ---
 
 ## 🌟 Featured Projects
 
-### 🧾 **Lendwise Website**
-A professional finance web app with role-based dashboards, form validation, and PDF modals.
-
-- Built dynamic forms with nested state validation using Redux + Yup
-- Integrated API layers, dropdowns, and editable modals
-- Created reusable party modals and invoice components
+### 🧾 **Lendwise – Loan Management Web App**
+Built a secure and responsive finance platform using ReactJS & Bootstrap.  
+Key features include **JWT authentication**, **real-time loan tracking**, and an **admin panel** for approvals and dispute handling. Integrated RESTful APIs for smooth backend communication.
 
 ### 🖥️ **Allwin Digital Website**
 A responsive static website built for a digital branding agency.
 
-- Built with React JS, Tailwind, and React Icons
-- Focused on clean, accessible UI with smooth animations
-- Integrated contact links, custom layouts, and responsive media queries
+- Built with React JS, Tailwind, and React Icons  
+- Focused on clean, accessible UI with smooth animations  
+- Integrated contact links, custom layouts, and responsive media queries  
 
 ### 📊 **Food Application Dashboard**
 An interactive food delivery admin panel.
 
-- Used Bootstrap + Redux for seamless state handling
-- Implemented CRUD dashboards and data tables
-- Enabled real-time form validations and API integration
+- Used Bootstrap + Redux for seamless state handling  
+- Implemented CRUD dashboards and data tables  
+- Enabled real-time form validations and API integration  
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)
+- 📧 **Email**: [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)  
 - 💼 **LinkedIn**: [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan-947597303/)
 
 ---
 
 ## ✨ Fun Facts
 
-- 🎨 *“Design is thinking made visual” — and I bring that to life through clean UI and intuitive user flows.*
-- 📊 Building dashboards is my happy place — I love blending data and design.
-- 💡 I enjoy solving tricky UI state problems and simplifying user journeys.
+- 🎨 *“Design is thinking made visual” — and I bring that to life through clean UI and intuitive user flows.*  
+- 📊 Building dashboards is my happy place — I love blending data and design.  
+- 💡 I enjoy solving tricky UI state problems and simplifying user journeys.  
 
 ---
 
