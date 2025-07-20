@@ -40,22 +40,42 @@ Hello! I'm Keerthana — a creative and detail-oriented Front-End Developer who 
 ## 🌟 Featured Projects
 
 ### 🧾 **Lendwise – Loan Management Web App**
-Built a secure and responsive finance platform using ReactJS & Bootstrap.  
-Key features include **JWT authentication**, **real-time loan tracking**, and an **admin panel** for approvals and dispute handling. Integrated RESTful APIs for smooth backend communication.
+
+A secure, role-based finance platform built to streamline borrower-lender interactions.
+
+* 🧱 Developed using **ReactJS** and **Bootstrap** to ensure responsive and accessible UI
+* 🔐 Implemented **JWT-based authentication** and **role-based authorization** for data protection
+* 📊 Built dynamic modules for **loan requests**, **approvals**, and **repayment tracking**
+* 🔔 Integrated **real-time notifications** for status updates and user actions
+* 🔗 Connected frontend and backend via **RESTful API integration** for smooth data flow
+* 🛠️ Created a dedicated **admin panel** for managing users, verifying loans, and resolving disputes
+
+---
+
+### 📊 **Food Application – Admin Dashboard**
+
+A full-featured admin panel for food delivery services.
+
+* 🧩 Developed responsive, cross-device UIs using **React.js**, **Material-UI**, **Bootstrap**, and **custom CSS**
+* ⚙️ Managed complex state with **Redux** and **Redux-Saga** for optimized performance
+* ✅ Integrated **Formik** for clean and validated form management
+* 🔐 Implemented **secure authentication & authorization**, with seamless **REST API integration**
+* 🔁 Collaborated using **Git** and **GitHub** for team workflows and version control
+
+---
 
 ### 🖥️ **Allwin Digital Website**
-A responsive static website built for a digital branding agency.
 
-- Built with React JS, Tailwind, and React Icons  
-- Focused on clean, accessible UI with smooth animations  
-- Integrated contact links, custom layouts, and responsive media queries  
+🔗 [Live Website](https://allwindigital-vadapalani.web.app)
 
-### 📊 **Food Application Dashboard**
-An interactive food delivery admin panel.
+A clean, static website built for a Chennai-based branding agency.
 
-- Used Bootstrap + Redux for seamless state handling  
-- Implemented CRUD dashboards and data tables  
-- Enabled real-time form validations and API integration  
+* 🌐 Developed a modern website using **React.js**, tailored to the client’s brand identity
+* 📱 Designed a fully **responsive interface** for desktop, tablet, and mobile devices
+* ✨ Enhanced UI with **React Icons**, **CSS animations**, and **lightweight hooks**
+* 🔗 Integrated **social media links**, **intuitive navigation**, and **contact features**
+* 🎯 Focused on clean design and smooth animations for faster load times
+* 🎨 Delivered a visually cohesive, brand-aligned experience with professional polish
 
 ---
 
