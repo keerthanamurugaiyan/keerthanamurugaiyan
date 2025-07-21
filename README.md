@@ -83,11 +83,11 @@ A clean, static website built for a Chennai-based branding agency.
 
 ## 📫 Connect With Me
 
-[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:keerthanamurugaiyan@gmail.com)
- [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/keerthana-murugaiyan)
- [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan)
+[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:keerthanamurugaiyan@gmail.com) &nbsp; **-** [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)
+
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/keerthana-murugaiyan) &nbsp; **-** [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan)
 
 ---
 
