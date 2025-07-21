@@ -83,57 +83,11 @@ A clean, static website built for a Chennai-based branding agency.
 
 ## 📫 Connect With Me
 
-<h3 align="left">📫 Connect with me</h3>
+[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:keerthanamurugaiyan@gmail.com)
+**Email:** [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)
 
-<p align="left">
-  <a href="mailto:keerthanamurugaiyan@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="20" style="margin-right:8px;"/>
-    <span style="
-      background: #D14836;
-      padding: 8px 16px;
-      border-radius: 8px;
-      color: white;
-      font-weight: 600;
-      box-shadow: 0 4px 0 #a7392a;
-      margin-right: 12px;
-      display: inline-block;
-    ">
-      Email
-    </span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/keerthana-murugaiyan" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="20" style="margin-right:8px;"/>
-    <span style="
-      background: #0077B5;
-      padding: 8px 16px;
-      border-radius: 8px;
-      color: white;
-      font-weight: 600;
-      box-shadow: 0 4px 0 #005582;
-      margin-right: 12px;
-      display: inline-block;
-    ">
-      LinkedIn
-    </span>
-  </a>
-
-  <a href="https://github.com/keerthana-murugaiyan" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" style="margin-right:8px;"/>
-    <span style="
-      background: #181717;
-      padding: 8px 16px;
-      border-radius: 8px;
-      color: white;
-      font-weight: 600;
-      box-shadow: 0 4px 0 #0f0f0f;
-      margin-right: 12px;
-      display: inline-block;
-    ">
-      GitHub
-    </span>
-  </a>
-</p>
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/keerthana-murugaiyan)
+**LinkedIn:** [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan)
 
 ---
 
