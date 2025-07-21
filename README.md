@@ -83,10 +83,17 @@ A clean, static website built for a Chennai-based branding agency.
 
 ## 📫 Connect With Me
 
-[![Email](https://img.icons8.com/fluency/28/gmail-new.png) **Email**](mailto:keerthanamurugaiyan@gmail.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.icons8.com/color/28/linkedin.png) **LinkedIn**](https://www.linkedin.com/in/keerthana-murugaiyan/)
-&nbsp;&nbsp;
+## 📫 Connect With Me
+
+<a href="mailto:keerthanamurugaiyan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/keerthana-murugaiyan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+&nbsp;
+
 ---
 
 ## ✨ Fun Facts
