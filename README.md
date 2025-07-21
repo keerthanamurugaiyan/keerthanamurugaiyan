@@ -83,8 +83,9 @@ A clean, static website built for a Chennai-based branding agency.
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: [keerthanamurugaiyan@gmail.com](mailto:keerthanamurugaiyan@gmail.com)  
-- 💼 **LinkedIn**: [Keerthana Murugaiyan](https://www.linkedin.com/in/keerthana-murugaiyan-947597303/)
+[![Email](https://img.icons8.com/ios-filled/24/000000/email.png)](mailto:keerthanamurugaiyan@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png)](https://www.linkedin.com/in/keerthana-murugaiyan)
 
 ---
 
