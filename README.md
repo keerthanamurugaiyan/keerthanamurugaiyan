@@ -83,9 +83,8 @@ A clean, static website built for a Chennai-based branding agency.
 
 ## 📫 Let's Connect
 
-[![Email](https://img.icons8.com/ios-filled/24/000000/email.png)](mailto:keerthanamurugaiyan@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png)](https://www.linkedin.com/in/keerthana-murugaiyan)
+<a href="mailto:janani@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/janani-veera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
